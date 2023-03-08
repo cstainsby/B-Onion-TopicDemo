@@ -1,0 +1,8 @@
+gunicorn
+pandas 
+numpy
+flask
+flask_restful
+flask-cors 
+h5py
+# torch
